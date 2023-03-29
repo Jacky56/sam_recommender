@@ -38,6 +38,6 @@ class fake_model():
                                                  "imbd_link",
                                                  "genres",
                                                  "overview"
-                                                 ]].to_dict("index")
+                                                 ]].to_dict("records")
         }
         return d
