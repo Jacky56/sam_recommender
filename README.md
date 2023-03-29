@@ -15,8 +15,8 @@ libraries used:
 - To test if it works: **https://movie-recommender-lkdpdhyb4q-od.a.run.app**
 
 Exmaple:
-https://movie-recommender-lkdpdhyb4q-od.a.run.app/search/god father
-
+- https://movie-recommender-lkdpdhyb4q-od.a.run.app/search/god+father
+- https://movie-recommender-lkdpdhyb4q-od.a.run.app/search/ice+age
 
 ## how to build container
 
