@@ -8,6 +8,16 @@ https://www.kaggle.com/code/rounakbanik/movie-recommender-systems/notebook
 libraries used:
 - [requirements.txt](./requirements.txt)
 
+## How to use
+
+- To read the docs: **https://movie-recommender-lkdpdhyb4q-od.a.run.app/docs**
+- To search for a movie: **https://movie-recommender-lkdpdhyb4q-od.a.run.app/search/{name}**
+- To test if it works: **https://movie-recommender-lkdpdhyb4q-od.a.run.app**
+
+Exmaple:
+https://movie-recommender-lkdpdhyb4q-od.a.run.app/search/god father
+
+
 ## how to build container
 
 ```bash
